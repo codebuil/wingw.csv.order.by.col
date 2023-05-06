@@ -1,2 +1,4 @@
-# wingw.cat.txt.files
-list a text file on the screen
+# wingw.csv.show.collun
+type a .csv file by the selected collun
+
+.\csv.exe my.csv 1
